@@ -205,3 +205,14 @@ footer {
 .social-link-style li a i:hover {
     background: #e84610;
 }
+
+/*----------------------------three reasons-----------------------------*/
+.three-reasons-icon{
+    font-size: 26px;
+    color:#e67e62 ;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
+
+}
