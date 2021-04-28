@@ -168,12 +168,11 @@ footer {
 }
 
 .social-link-style li a i {
-    width: 32px;
-    height: 32px;
+    width: 42px;
+    height: 42px;
     padding: 12px;
     border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
+    font-size: 20px;
     text-align: center;
     color: #fafafa;
     background:#8f8f8f;
